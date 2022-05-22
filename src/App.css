@@ -175,3 +175,9 @@ h1 {
     width: auto;
   }
 }
+
+@media screen and (min-width:280px) and (max-width:360px){
+  .todo-input{
+    width: 150px;
+  }
+}
